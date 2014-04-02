@@ -10,7 +10,7 @@ As far as I know, all the requirements are in the standard library, so as long a
 
 ## USAGE
 
-Once you've got Ruby and it's in your $PATH, just run the script with --help to get usage information.  If you're feeling adventurous you can chmod +x it and let the shebang figure it out, but this will only work on UNIX-like systems.
+Once you've got Ruby and it's in your ```$PATH```, just run the script with ```--help``` to get usage information.  If you're feeling adventurous you can ```chmod +x``` it and let the shebang figure it out, but this will only work on UNIX-like systems.
 
 ### The quick version
 
