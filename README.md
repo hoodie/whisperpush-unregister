@@ -17,7 +17,7 @@ Once you've got Ruby and it's in your ```$PATH```, just run the script with ```-
 Assuming that your phone number is ```+16501231234```
 
 ```
-ruby whisperpush_unregister.rb --mode getconfirm --phone_number +16501231234
+ruby whisperpush_unregister.rb --mode getconfirm --phone-number +16501231234
    Confirmation code sent to +16501231234. Run with -m unregister when you have it.
 ```
 
